@@ -22,6 +22,19 @@
 		line-height: 1.75em;
 	}
 
+	.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 	a {
 		color: #629DD1;
 		text-decoration: underline;
